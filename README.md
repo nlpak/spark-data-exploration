@@ -23,3 +23,7 @@ The task of this assignment is to output information in the following form.
 So each line has a record for a different language, where you have the name of that language, its
 code, the combined views of all pages in that language, the title of the most visited page in that
 language, and also the views of that most visited page in that language. 
+
+The records should be sorted such that the language with the most views overall (Views of all pages
+in that language combined) should be listed first. In other words, records are listed in descending
+order according to the total number of views of pages in different languages. 
